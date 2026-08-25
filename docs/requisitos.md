@@ -55,4 +55,11 @@ RNF 05- FEEDBACK : O sistema deve fornecer feedback visual para indicar acertos 
 RNF 06- SEGURANÇA : O sistema não deve solicitar informações pessoais da criança no MVP;
 
 ## 8 - Funcionalidades Futuras
-
+-Acompanhamento do desempenho da criança;
+-Adição de efeitos sonoros e instrução por audio;
+-Sistema de pontuação;
+-Sistema de niveis e dificuldades;
+-Adição de novas cores e elementos visuais;
+-Atividades envolvendo números;
+Atividade envolvendo letras;
+Atividades envolvendo animais e outros elementos educativos;
