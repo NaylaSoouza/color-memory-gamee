@@ -2,6 +2,8 @@
 
 ## 1. Objetivo
 
+O objetivo desse jogo é trabalhar tecnologia na educação infantil, ajudar na identificação das cores de forma divertida
+
 ## 2. Público-alvo
 
 ## 3. Problema
