@@ -14,4 +14,5 @@
 
 ## 7. Requisitos não funcionais
 
-## 8. Funcionalidades futuras 
+## 8 - Funcionalidades Futuras
+
